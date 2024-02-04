@@ -4,4 +4,16 @@
 
 
 
+
+
+
+GitHub使用注意事项：
+
+1、配置git用户名和电子邮箱
+
+2、取消git代理，重新分配代理端口，具体查电脑的端口设置
+
+若与GitHub的通信还是受阻，则采用科学上网的方式，不配置代理。
+
+
 The first important thing needs to do is Scientific Internet.
